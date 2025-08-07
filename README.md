@@ -1,8 +1,9 @@
 # Cursor Pro 自动化工具使用说明
 
-
 [English doc](./README.EN.md)
 
+## augmentcode无限重置仓库
+[augmentcode](https://github.com/chengazhen/augmentcode-last-moment)
 
 ## 在线文档
 [cursor-auto-free-doc.vercel.app](https://cursor-auto-free-doc.vercel.app)
